@@ -1,0 +1,427 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Chicken Katsu With Rice",
+      "price": 15000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 2,
+      "title": "Beef With Rice",
+      "price": 16000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 3,
+      "title": "Chicken Pasta",
+      "price": 12000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Katsu Spaghetti",
+      "price": 15000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 5,
+      "title": "Potato with Salad",
+      "price": 15000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 6,
+      "title": "Potato with Chips",
+      "price": 15000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 7,
+      "title": "Chicken Grill",
+      "price": 18000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 8,
+      "title": "Chicken Wrap S",
+      "price": 11000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 9,
+      "title": "Chicken Wrap M",
+      "price": 13000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 10,
+      "title": "Chicken Wrap L",
+      "price": 15000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 11,
+      "title": "Beef Wrap S",
+      "price": 11000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 12,
+      "title": "Beef Wrap M",
+      "price": 13000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 13,
+      "title": "Beef Wrap L",
+      "price": 15000,
+      "description": "",
+      "category": "food",
+      "sub-category": "snack",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 14,
+      "title": "Milkshake Banana",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 15,
+      "title": "Milkshake Taro",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 16,
+      "title": "Milkshake Cokelat",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 17,
+      "title": "Milkshake Oreo",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 18,
+      "title": "Milkshake Caremel",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 19,
+      "title": "Milkshake Hazelnut",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 20,
+      "title": "Milkshake Bubblegum",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 21,
+      "title": "Milkshake Tiramisu",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 22,
+      "title": "Milkshake Vanilla latte",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 23,
+      "title": "Milkshake Strawberry",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 24,
+      "title": "Milkshake Avocado",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 25,
+      "title": "Milkshake Red velvet",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 26,
+      "title": "Milkshake Silve qwen",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 27,
+      "title": "Milkshake Blackforest",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 28,
+      "title": "Milkshake Leci",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 29,
+      "title": "Milkshake Mangga",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 30,
+      "title": "Milkshake Mix Silver qwen + Caramel",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 31,
+      "title": "Milk Tea",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 32,
+      "title": "Iced Cappucino",
+      "price": 14000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "coffee",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 33,
+      "title": "Iced Americano",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "coffee",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 34,
+      "title": "Iced Aren Latte",
+      "price": 14000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "coffee",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 35,
+      "title": "Iced Moccacino",
+      "price": 14000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "coffee",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 36,
+      "title": "Iced Banana Coffee",
+      "price": 14000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "coffee",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 37,
+      "title": "Thai Tea Thailand",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "tea",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 38,
+      "title": "Green Tea Thailand",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "tea",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 39,
+      "title": "Blue Mojito",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "mojito",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 40,
+      "title": "Red Mojito",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "mojito",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 41,
+      "title": "Mix Leci Bubble Blast",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 42,
+      "title": "",
+      "price": 12000,
+      "description": "Mix Berry Mango Swirl",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 43,
+      "title": "Avocaramel Bliss",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 44,
+      "title": "Choco Milktea Bliss",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 45,
+      "title": "Taro Choco Delight",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "milky",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 46,
+      "title": "Strawberry Yakult",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "yakult",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    },
+    {
+      "id": 47,
+      "title": "Purple Blue Yakult",
+      "price": 12000,
+      "description": "",
+      "category": "drink",
+      "sub-category": "yakult",
+      "image": "https://picsum.photos/seed/picsum/200/300"
+    }
+  ]
+}
