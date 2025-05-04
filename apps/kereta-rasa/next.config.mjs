@@ -1,8 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: "standalone",
   transpilePackages: ["@workspace/ui"],
   images: {
-    domains: ["fakestoreapi.com","picsum.photos"],
+    unoptimized: true,
   },
 };
 
